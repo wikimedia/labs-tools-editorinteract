@@ -1,2 +1,2 @@
-# labs-tools-eia
-Editor Interaction Analyser
+# Editor Interaction Analyser
+This tools facilitates analysis of editor interactions on Wikipedia.
